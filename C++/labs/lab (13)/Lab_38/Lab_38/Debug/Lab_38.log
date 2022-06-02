@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\my program\Програмування\2 семестр\Lab13\Lab_38\Lab_38\Source.cpp(130,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab_38.vcxproj -> E:\my program\Програмування\2 семестр\Lab13\Lab_38\Debug\Lab_38.exe

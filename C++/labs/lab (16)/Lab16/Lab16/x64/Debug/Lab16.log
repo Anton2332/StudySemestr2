@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\my program\Програмування\2 семестр\Lab16\Lab16\Lab16\Source.cpp(46,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\my program\Програмування\2 семестр\Lab16\Lab16\Lab16\Source.cpp(261,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\my program\Програмування\2 семестр\Lab16\Lab16\Lab16\Source.cpp(262,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\my program\Програмування\2 семестр\Lab16\Lab16\Lab16\Source.cpp(356,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab16.vcxproj -> E:\my program\Програмування\2 семестр\Lab16\Lab16\x64\Debug\Lab16.exe

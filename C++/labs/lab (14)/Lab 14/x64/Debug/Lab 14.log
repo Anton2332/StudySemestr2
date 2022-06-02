@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\my program\Програмування\2 семестр\Lab 14\Lab 14\Source.cpp(190,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\my program\Програмування\2 семестр\Lab 14\Lab 14\Source.cpp(219,12): warning C4154: удаление массива; выполнено преобразование к указателю
+  Lab 14.vcxproj -> E:\my program\Програмування\2 семестр\Lab 14\x64\Debug\Lab 14.exe

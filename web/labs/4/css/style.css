@@ -1,0 +1,59 @@
+* {
+  margin-left: 30px;
+  margin-bottom: auto;
+}
+
+#obit {
+  color: #FF0000;
+}
+
+#obit2 {
+  color: #FF0000;
+  margin-left: 3px;
+}
+
+.table1 {
+  border-collapse: collapse;
+  border: 0px solid grey;
+  padding: 10px;
+}
+
+.button {
+  width: 15px;
+  height: 15px;
+  border-radius: 75%;
+}
+.button2 {
+  width: 15px;
+  height: 15px;
+}
+.button3 {
+  width: 15px;
+  height: 15px;
+  border-radius: 75%;
+}
+td {
+    text-align: right;
+    border-bottom: 1px solid #698996;
+   }
+button:active {
+  background-color: black;
+}
+
+th, td {
+  padding: 10px 8px;
+}
+
+.name {
+  text-align: right;
+}
+
+.color {
+  background-color: #838996;
+}
+#txt{
+  text-align:right;
+}
+.kv{
+  font-weight:bold;
+}

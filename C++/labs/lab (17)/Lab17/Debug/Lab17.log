@@ -1,0 +1,10 @@
+﻿  Source.cpp
+E:\my program\Програмування\2 семестр\Lab17\Lab17\Source.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\my program\Програмування\2 семестр\Lab17\Lab17\Source.cpp(69,18): warning C4244: аргумент: преобразование "float" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\my program\Програмування\2 семестр\Lab17\Lab17\Source.cpp(113,16): warning C4018: <: несоответствие типов со знаком и без знака
+E:\my program\Програмування\2 семестр\Lab17\Lab17\Source.cpp(123,2): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Lab17.vcxproj -> E:\my program\Програмування\2 семестр\Lab17\Debug\Lab17.exe

@@ -1,0 +1,193 @@
+
+.block2{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+  .block{
+    width:75%;
+    
+    
+     
+  }
+  .menu{
+    margin-right: 30px;
+  }
+  .click-img {
+    width: 100%;
+     
+    height: 600px;
+  }
+
+  .content{
+    width: 100%;
+  }
+
+  .in-img{
+    background-image:url(img/wave.jpg);
+    height: 550px;
+    width:100%;
+     
+  }
+
+  .massag p{
+    margin-left: 15px;
+  }
+
+  .massag input{
+    margin-left: 15px;
+  }
+  .stt1,.stt2,.stt3,.stt4,.stt5{
+    margin: 25px;
+  }
+  .inblock{
+    display: flex;
+    flex-direction:row;
+  }
+
+  
+  
+  .imglogo{
+    margin-left: 20px ;
+    width: 130px;
+    height: 130px;
+    border-radius: 25%;
+  }
+
+li{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+nav a{
+  padding-left: 1px;
+}
+a{
+  
+  text-decoration: none;
+  color:chartreuse;
+}
+
+
+.click-img a{
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.name__img{
+  padding: 0;
+  margin: 0;
+}
+.name__img li{
+  display: inline-block;
+  width: 24.3%;
+  height: 30px;
+  background-color: rgba(106, 149, 42,0.5);
+}
+
+
+
+
+
+
+.massag{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.massag p{
+  margin-right: 10%;
+  font-size: 13px;
+}
+.bottom{
+  width:70px;
+}
+
+
+
+
+
+.stt p{
+  font-size: 12px;
+}
+.stt {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+
+.img1,.img2,.img3,.img4,.img5{
+
+  width: 120px;
+}
+
+.footer{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.infooter{
+  display: flex;
+  align-items: center;
+}
+.logofooter{
+  margin: 10px;
+}
+.stt{
+  width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .inblock{
+    display: flex;
+    flex-direction: column;
+  }
+  .menu{
+    display: flex;
+    flex-direction: row;
+  }
+  nav li{
+    display: inline-block;
+  }
+  nav{
+    margin-left: 40px;
+  }
+  .stt1,.stt2,.stt3,.stt4,.stt5{
+    margin: 10px;
+  }
+}
+@media screen and (max-width: 400px)
+{
+  .menu{
+     
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+    margin: 0;
+  }
+  .log1,.log2,.log3,.log4,.log5{
+    display: none;
+  }
+  nav ul{
+    margin: 0;
+  }
+  nav li{
+    margin: 0;
+    display: inline-block;
+  }
+  .in-img{
+    height: 150px;
+  }
+  .click-img{
+    height: 200px;
+  }
+}

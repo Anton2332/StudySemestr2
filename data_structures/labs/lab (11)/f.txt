@@ -1,0 +1,6 @@
+4522 Tablet 4550
+2750 Laptop  29500
+1007 Flash-card 120 
+3 f 5
+5 k 10
+34 t 56 
